@@ -31,7 +31,7 @@ class SlashCommands(commands.Cog):
     async def _test(self, ctx, member : discord.Member):
         try:
             await ctx.respond(True)
-            
+            #do something
         except Exception as E:
             print(E)
 
