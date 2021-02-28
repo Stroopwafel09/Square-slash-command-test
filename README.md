@@ -1,6 +1,13 @@
-## Basic Discord BOT template (Python3)
+## Basic Discord BOT template - Slash commands (Python3)
 
 Please remember to:
+
+- Install **discord_slash** using `pip install -U discord-py-slash-command`
+
+- Add your bot with correct scopes on discord.com/developers:
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/704387250351243425/815685507257335838/8a88820e3359af00dd01d054f2f15194.png" width=200 /></br>
+</p>
 
 - Fill author.txt with **ID of your Discord account**
 <p align="center">
@@ -14,4 +21,4 @@ Please remember to:
 
 - Customize or add new commands and events! 🎉
 
-- You can run your BOT using `python3 bot.py` command or by using your favorite editor (e.g. VSC)
+- You can run your BOT using `python3 client.py` command or by using your favorite editor (e.g. VSC)
