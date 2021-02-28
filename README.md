@@ -6,7 +6,7 @@ Please remember to:
 
 - Add your bot with correct scopes on discord.com/developers:
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/704387250351243425/815685507257335838/8a88820e3359af00dd01d054f2f15194.png" width=200 /></br>
+  <img src="https://cdn.discordapp.com/attachments/704387250351243425/815685507257335838/8a88820e3359af00dd01d054f2f15194.png" width=700 /></br>
 </p>
 
 - Fill author.txt with **ID of your Discord account**
