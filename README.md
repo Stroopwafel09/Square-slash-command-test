@@ -4,7 +4,7 @@ Please remember to:
 
 - Install **discord_slash** using `pip install -U discord-py-slash-command`
 
-- Add your bot with correct scopes on discord.com/developers:
+- Add your bot with correct scopes on [discord.com/developers](discord.com/developers):
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/704387250351243425/815685507257335838/8a88820e3359af00dd01d054f2f15194.png" width=700 /></br>
 </p>
