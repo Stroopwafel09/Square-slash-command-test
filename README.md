@@ -1,5 +1,5 @@
 ## Basic Discord BOT template - Slash commands (Python3)
-!!!DEPRECATED!!!
+## !!!DEPRECATED!!!
 
 Please remember to:
 
