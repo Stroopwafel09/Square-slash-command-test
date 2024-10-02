@@ -75,5 +75,5 @@ async def unload(ctx, extension):
 #You can !reload/!load/!unload Cogs
 #example: !reload Basic
 
-token = read_token()
+token = os.environ['TOKEN']
 client.run(token)
