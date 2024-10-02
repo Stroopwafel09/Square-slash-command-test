@@ -3,3 +3,4 @@ flask
 python-dotenv
 discord-py-slash-command
 discord-py-slash-commands
+interactions.py
